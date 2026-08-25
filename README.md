@@ -22,7 +22,9 @@ This idea resulted from the frustration and problem that occurred from not being
 -------------------
 
 This product is _**open source**_, yes you can skip this 
-<!--[TODO: maybe *insert sad, crying face*-->
+<!--[TODO: maybe *insert sad, crying face*
+
+-->
 
 
 Please ~~use, reuse, and modify these files to your pleasure. ~~Please maintain attribution to “Robjects” and release any derivative under the same license.~~
